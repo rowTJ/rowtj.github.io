@@ -9,6 +9,9 @@ a {
   font-weight: 500;
   color: #000;
 }
+h1 {
+  margin-top: 0;
+}
 h1 small {
   display: block;
   font-size: 1rem;
@@ -26,10 +29,10 @@ nav, nav h1{
     color: #fff;
   }
 }
-@media screen and (min-width:1075px) {
+@media screen and (min-width:1050px) {
   nav {
     position: absolute;
-    margin-top: 25px;
+    margin-top: 5px;
     right: 50%;
     margin-right: 340px !important;
   }
