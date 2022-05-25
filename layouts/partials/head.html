@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html lang=en>
+<html lang=en>
+<head>
+  <meta charset=utf-8>
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light"/>
+  {{ if .IsHome }}
+  <title>TJ Crew Captains</title>
+  {{ else }}
+  <title>{{ $.Title }} | TJ Crew Captains</title>
+  {{ end }}
+  <meta name=description content="{{$.Description}}">
+  <link rel=alternate type=application/rss+xml title="Willston Web" href="/rss.xml">
+  <link rel="stylesheet" href="/style.css">
+</head>

@@ -1,0 +1,13 @@
+{{ partial "head.html" . }}
+<body>
+    {{ partial "nav.html" . }}
+    <main>
+    <h1>
+        {{ $.Title }}
+        <small><time datetime="{{ .Page.Lastmod.Format "Mon Jan 10 17:13:38 2020 -0700" }}">This page was last updated <strong>{{ $.Page.Lastmod.Format "January 02, 2006" }}</strong></time></small>
+    </h1>
+    {{.Content}}
+    </main>
+    {{ partial "footer.html" . }}
+</body>
+</html>
