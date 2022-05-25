@@ -18,6 +18,15 @@ can use the guide to make productive training plans. The guide was written by
 Alex Sieke, the fastest guy to ever row for TJ (less than 6:10 2k) and rowed for
 Princeton before coming back to coach for TJ.
 
+## [The Pete Plan](https://thepeteplan.wordpress.com/the-pete-plan/)
+
+The Pete Plan is a continuous training plan, meaning it does not peak for an
+event or 2k; instead, you are always in shape to 2k. Pete created workouts that
+fit into his lunch hour. This is a great plan and you should supplement it with
+steady state since you have more time. It will greatly improve your aerobic
+base. 3x30:00/7:00r, 2x45:00/10:00r, and 5x20:00/5:00r are all great choices. Do
+3x20:00/5:00r if you're shorter on time.
+
 ## [Coach Jon\'s 2022 Summer Training Plan](https://docs.google.com/document/d/1qbwQY2P2Ws9DjQSPB3q0S40ibTME1cf8Mvx77D5tgcE/edit)
 
 This is the training plan Coach Jon made for the girls he coached this season.
