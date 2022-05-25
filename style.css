@@ -1,0 +1,38 @@
+body {
+  max-width: 640px;
+  margin: auto;
+  font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir, Segoe UI, Helvetica Neue, Helvetica, Ubuntu, Roboto, Noto, Arial, sans-serif;
+  padding: 1.5em;
+}
+a {
+  font-weight: 500;
+  color: #000;
+}
+h1 small {
+  display: block;
+  font-size: 1rem;
+  font-weight: normal;
+}
+code {
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  overflow: auto;
+}
+nav, nav h1{
+  font-size: 1em;
+}
+@media screen and (prefers-color-scheme: dark) {
+  a {
+    color: #fff;
+  }
+}
+@media screen and (min-width:1075px) {
+  nav {
+    position: absolute;
+    margin-top: 25px;
+    right: 50%;
+    margin-right: 340px !important;
+  }
+  nav hr {
+    display: none;
+  }
+}
