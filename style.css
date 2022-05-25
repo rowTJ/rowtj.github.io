@@ -3,6 +3,7 @@ body {
   margin: auto;
   font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir, Segoe UI, Helvetica Neue, Helvetica, Ubuntu, Roboto, Noto, Arial, sans-serif;
   padding: 1.5em;
+  overflow-y: scroll;
 }
 a {
   font-weight: 500;
