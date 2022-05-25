@@ -10,6 +10,11 @@ being "lazy" is to just do steady state while watching movies. Jonathan got
 through a lot of the Marvel Cinematic Universe last summer (2021) while doing
 3x20:00/5:00r.
 
+**If you don't have access to an erg, please do some running and/or biking.** It
+can and should be slow—just make sure you do a lot of volume. If you're low on
+time, try a Tabata (it only takes 4 minutes and has been scientifically proven
+to increase VO<sub>2</sub> Max): 8x00:20 MAX/00:10r
+
 ## Beginners
 
 ### [The Pete Plan](https://thepeteplan.wordpress.com/the-pete-plan/)

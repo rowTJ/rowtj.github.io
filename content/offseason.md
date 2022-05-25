@@ -3,6 +3,19 @@ title: Offseason Rowing
 description: A list of summer and fall rowing opportunities
 ---
 
+The best thing you can do for your rowing career is to continue in the summer
+and fall. If you bridge the gap between the end of the spring season and winter
+training, you will start the spring season in the best shape of your life and
+will work to become faster instead of try to get back to your previous peak. If
+you can't do summer or fall rowing, still try to stay in shape.
+
+Check out our [recommended training plans](/plans) or **do some running or
+biking if you cannot do steady state on the erg at a bare minimum** (start with
+3x20:00/5:00r if you've never steady stated before). You don't want to lose all
+of your gains. If you’re low on time, try a Tabata (it only takes 4 minutes and
+has been scientifically proven to increase VO<sub>2</sub> Max): 8x00:20
+MAX/00:10r
+
 ## [Resilient Rowing Summer Racing Program](https://www.resilientrowing.com/summer-racing)
 
 ### For Those Serious About Rowing and Live Closer to the Occoquan than Washington, D.C.
