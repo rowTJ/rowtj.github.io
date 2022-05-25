@@ -40,9 +40,3 @@ up with 135 lbs and doing 225 lbs for 5 sets of 5 reps.
 
 [free summer gym memberships]: https://www.planetfitness.com/summerpass/registration
 [whole manifesto]: https://stronglifts.com/5x5/
-
-## [The Wolverine Plan](/files/wolverine.pdf)
-
-This is the basis of what makes up Michigan Women's Crew's training plan. They
-have consistently been one of the top crews and this plan has been highly
-regarded since the early 2000's.
