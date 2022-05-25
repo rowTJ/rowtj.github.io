@@ -3,6 +3,9 @@ body {
   margin: auto;
   font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir, Segoe UI, Helvetica Neue, Helvetica, Ubuntu, Roboto, Noto, Arial, sans-serif;
   padding: 1.5em;
+  line-height: 1.6;
+  letter-spacing: -.015em;
+  font-size: 1.15rem;
   overflow-y: scroll;
 }
 a {
@@ -29,7 +32,7 @@ nav, nav h1{
     color: #fff;
   }
 }
-@media screen and (min-width:1050px) {
+@media screen and (min-width:1100px) {
   nav {
     position: absolute;
     margin-top: 5px;
