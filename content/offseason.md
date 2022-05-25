@@ -5,7 +5,9 @@ description: A list of summer and fall rowing opportunities
 
 ## [Resilient Rowing Summer Racing Program](https://www.resilientrowing.com/summer-racing)
 
-Dates: June 6-July 30, 2022
+### For Those Serious About Rowing and Live Closer to the Occoquan than Washington, D.C.
+
+Dates: June 6 - July 30, 2022
 
 Location: Sandy Run Regional Park (where TJ rows)
 
@@ -18,6 +20,8 @@ some TJ rowers were not eligible to compete for a spot in a boat going to the
 Head of the Charles Regatta 2021 because they did not have sculling experience.
 
 ## [Summer Sculling With Athletes Without Limits](https://www.wakefieldrowing.org/summer-rowing)
+
+### For Those Who Cannot Commit to a Summer Racing Team, but Still Want to Row
 
 Dates:
 
@@ -35,6 +39,8 @@ racing program, yet still want to row.
 
 ## [TBC Racing Summer Racing Team](https://tbcracing.org/programs/junior-racing-teams/)
 
+### For Those Serious About Rowing and Live Closer to the Washington, D.C. the Occoquan
+
 Dates: June 6 – August 10, 2022
 
 Location: Thompson Boat Club (Washington, D.C.)
@@ -43,6 +49,8 @@ TBC Racing is another competitive program. They have a lot of boats and have a
 heavy focus on 8's. Choose this if going to D.C. is closer than the Occoquan.
 
 ## [Potomac Boat Club U19 Sculling](https://www.potomacboatclub.org/content.aspx?page_id=22&club_id=223602&module_id=401495)
+
+### For Anyone Who Can Make It on the Team (It’s a Very Good Program)
 
 Dates: June 6 - July 31, 2022
 
@@ -54,7 +62,25 @@ future (this upcoming fall and next summer). Jonathan did it last summer (2021)
 and learned a lot of technique rowing in small boats and learned about what it
 was like to row at a high level. Sculling is a super helpful skill to learn.
 
+## [Resilient Rowing Summer Learn to Row](https://www.resilientrowing.com/summerlearntorow)
+
+### For Those Who Have Not Rowed Before and Want a Head Start on the Upcoming Spring Season (2023) and Live Closer to the Occoquan than Washington, D.C.
+
+Dates:
+
+- Session 1: June 6 - July 1, 2022
+- Session 2: July 5th - July 29, 2022
+- Session 3: August 1-27, 2022
+
+Location: Sandy Run Regional Park (where TJ rows)
+
+Over the course of three weeks, you will learn the fundamentals of rowing. This
+is a really good option for people who have never rowed before, but not
+returning rowers. **Get your friends who don't do crew to sign up for this**!
+
 ## [Wakefield Learn to Row Summer Camp](https://www.wakefieldrowing.org/summer-camp)
+
+### For Those Who Have Not Rowed Before and Want a Head Start on the Upcoming Spring Season (2023) and live closer to Washington, D.C. than the Occoquan
 
 Dates:
 

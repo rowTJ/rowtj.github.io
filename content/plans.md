@@ -10,15 +10,13 @@ being "lazy" is to just do steady state while watching movies. Jonathan got
 through a lot of the Marvel Cinematic Universe last summer (2021) while doing
 3x20:00/5:00r.
 
-## [The Sieke Guide](/files/sieke.pdf)
+## Beginners
 
-This guide is legendary (at least on the men's side of the team) and is a great
-place to start if you know nothing about offseason rowing. Experienced rowers
-can use the guide to make productive training plans. The guide was written by
-Alex Sieke, the fastest guy to ever row for TJ (less than 6:10 2k) and rowed for
-Princeton before coming back to coach for TJ.
+### [The Pete Plan](https://thepeteplan.wordpress.com/the-pete-plan/)
 
-## [The Pete Plan](https://thepeteplan.wordpress.com/the-pete-plan/)
+#### For People Who Just Got an Erg, but Don’t Know What to Do
+
+<mark>DO THIS IF YOU DON'T KNOW WHAT TO DO</mark>
 
 The Pete Plan is a continuous training plan, meaning it does not peak for an
 event or 2k; instead, you are always in shape to 2k. Pete created workouts that
@@ -27,13 +25,29 @@ steady state since you have more time. It will greatly improve your aerobic
 base. 3x30:00/7:00r, 2x45:00/10:00r, and 5x20:00/5:00r are all great choices. Do
 3x20:00/5:00r if you're shorter on time.
 
-## [Coach Jon\'s 2022 Summer Training Plan](https://docs.google.com/document/d/1qbwQY2P2Ws9DjQSPB3q0S40ibTME1cf8Mvx77D5tgcE/edit)
+### [Coach Jon\'s 2022 Summer Training Plan](https://docs.google.com/document/d/1qbwQY2P2Ws9DjQSPB3q0S40ibTME1cf8Mvx77D5tgcE/edit)
+
+#### For Former 3V Girls and Those Without an Erg
 
 This is the training plan Coach Jon made for the girls he coached this season.
 He has graciously offered to share it with the team. This is a great plan to
 follow if you do not have access to an erg.
 
-## [StrongLifts 5x5](https://stronglifts.com/5x5/)
+## Rowers Who Want to Go to the Next Level
+
+### [The Sieke Guide](/files/sieke.pdf)
+
+#### Learn the Science Behind Your Workouts and to Make Your Own Plan
+
+This guide is legendary (at least on the men's side of the team) and is a great
+place to start if you know nothing about offseason rowing. Experienced rowers
+can use the guide to make productive training plans. The guide was written by
+Alex Sieke, the fastest guy to ever row for TJ (less than 6:10 2k) and rowed for
+Princeton before coming back to coach for TJ.
+
+### [StrongLifts 5x5](https://stronglifts.com/5x5/)
+
+#### The Beginner Lifter's Plan
 
 Do the StrongLifts 5x5 plan if you have access to weights. It is great for
 people with little lifting experience. Make sure to learn proper technique so
