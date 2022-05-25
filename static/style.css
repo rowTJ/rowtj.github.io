@@ -35,7 +35,7 @@ nav, nav h1{
 @media screen and (min-width:1100px) {
   nav {
     position: absolute;
-    margin-top: 5px;
+    margin-top: 0.5em;
     right: 50%;
     margin-right: 340px !important;
   }
