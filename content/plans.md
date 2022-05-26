@@ -6,7 +6,7 @@ description: A list of various training plans that have graced TJ Crew's awarene
 It is extremely easy to lose all of the gains you made during the season. Try to
 do _something_ during the summer and you'll reap what you sowed in winter
 training and on the water in the spring. An easy to stay in shape while also
-being "lazy" is to just do steady state while watching movies. Jonathan got
+being "lazy" is to just do steady state while watching movies. One rower got
 through a lot of the Marvel Cinematic Universe last summer (2021) while doing
 3x20:00/5:00r.
 
@@ -66,7 +66,7 @@ the [whole manifesto] to understand the goals of the plan (note that it does
 have grammatical and spelling errors). Just don't listen to the part that says
 you should not do cardio. You need to do cardio in the summer. We lift to row
 well, not the other way around. StrongLifts 5x5 should be paired with loads of
-steady state on the erg for maximum gains. Jonathan did this plan from August
+steady state on the erg for maximum gains. One rower did this plan from August
 2021 - Janurary 2022 and went from thinking lifting 135 lbs was hard to warming
 up with 135 lbs and doing 225 lbs for 5 sets of 5 reps.
 

@@ -71,7 +71,7 @@ Location: Potomac Boat Club (Washington, D.C.)
 
 This is probably the most competitive program on this list, but unfortunately I
 believe registration is closed. You should keep this program in mind for the
-future (this upcoming fall and next summer). Jonathan did it last summer (2021)
+future (this upcoming fall and next summer). One rower did it last summer (2021)
 and learned a lot of technique rowing in small boats and learned about what it
 was like to row at a high level. Sculling is a super helpful skill to learn.
 
