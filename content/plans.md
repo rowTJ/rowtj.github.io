@@ -72,3 +72,21 @@ up with 135 lbs and doing 225 lbs for 5 sets of 5 reps.
 
 [free summer gym memberships]: https://www.planetfitness.com/summerpass/registration
 [whole manifesto]: https://stronglifts.com/5x5/
+
+## Cuckoo Bananas
+
+### [Get Fast Fast](https://alexkrupp.typepad.com/sensemaking/2011/04/get-fast-fast-a-project-management-approach-to-lightweight-rowing.html) ([archive for when on school WiFi](https://web.archive.org/web/20220308225207/https://alexkrupp.typepad.com/sensemaking/2011/04/get-fast-fast-a-project-management-approach-to-lightweight-rowing.html))
+
+#### A Project Management Approach To Lightweight Rowing
+
+This plan is intense. It was "written primarily for lightweight male rowers, but
+may useful for others as well." It claims to train you to row a sub-6:20 2k in
+six months. Here is another excerpt from the "Assumptions, caveats, and
+prerequisites" section:
+
+> This guide is written for people trying to go from anywhere under 7:00 to just
+> under 6:20. It's not intended for beginners trying to go from 9:00 to 7:00,
+> nor is it meant for those trying to go from 6:18 to 6:08.
+
+The Get Fast Fast plan is hardcore, focuses a lot of steady state, and will
+likely help you score some monster erg times.
