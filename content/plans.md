@@ -36,7 +36,11 @@ base. 3x30:00/7:00r, 2x45:00/10:00r, and 5x20:00/5:00r are all great choices. Do
 
 This is the training plan Coach Jon made for the girls he coached this season.
 He has graciously offered to share it with the team. This is a great plan to
-follow if you do not have access to an erg.
+follow if you do not have access to an erg. See these [bodyweight] and [core]
+circuits for days when they are on your plan
+
+[bodyweight]: /bodyweight
+[core]: /core
 
 ## Rowers Who Want to Go to the Next Level
 
