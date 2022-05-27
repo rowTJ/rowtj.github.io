@@ -30,6 +30,41 @@ steady state since you have more time. It will greatly improve your aerobic
 base. 3x30:00/7:00r, 2x45:00/10:00r, and 5x20:00/5:00r are all great choices. Do
 3x20:00/5:00r if you're shorter on time.
 
+You should really read the whole [whitepaper], but here is the plan. It cycles
+every 3 weeks:
+
+##### Week 1
+
+1. 8x500m/3:30r
+2. Steady distance (~8-15k)
+3. 5x1500m/5:00r
+4. Steady distance (~8-15k)
+5. Hard distance (~5k+)
+6. Steady distance (~8-15k)
+7. Rest
+
+##### Week 2
+
+1. 250m, 500m, 750m, 1k, 750m, 500m, 250m / 1:30r per 250m work
+2. Steady distance (~8-15k)
+3. 4x2000m/5:00r
+4. Steady distance (~8-15k)
+5. Hard distance (~5k+)
+6. Steady distance (~8-15k)
+7. Rest
+
+##### Week 3
+
+1. 4x1000m/5:00r
+2. Steady distance (~8-15k)
+3. 3k, 2.5k, 2k / 5:00r
+4. Steady distance (~8-15k)
+5. Hard distance (~5k+)
+6. Steady distance (~8-15k)
+7. Rest
+
+[whitepaper]: https://thepeteplan.wordpress.com/the-pete-plan/
+
 ### [Coach Jon\'s 2022 Summer Training Plan](https://docs.google.com/document/d/1qbwQY2P2Ws9DjQSPB3q0S40ibTME1cf8Mvx77D5tgcE/edit)
 
 #### For Former 3V Girls and Those Without an Erg
