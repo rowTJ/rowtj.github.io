@@ -14,7 +14,8 @@ do. Some of these workouts are directly taken from
 This is a core workout created by one of TJ Crew's greats: John Feng. Legend has
 it that John Feng would do three sets of Feng Core without taking a break or
 breaking a sweat. This is a 10 minute core workout that works your stability and
-will make your shoulders sore along with your abs. The workout is as follows:
+will make your shoulders sore along with your abs. The workout is as follows (no
+rest and try to stay up for the whole thing):
 
 1. 90s plank
 2. 60s side plank (left)
