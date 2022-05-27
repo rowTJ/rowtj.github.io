@@ -75,7 +75,7 @@ up with 135 lbs and doing 225 lbs for 5 sets of 5 reps.
 
 ## Cuckoo Bananas
 
-### [Get Fast Fast](https://alexkrupp.typepad.com/sensemaking/2011/04/get-fast-fast-a-project-management-approach-to-lightweight-rowing.html) ([archive for when on school WiFi](https://web.archive.org/web/20220308225207/https://alexkrupp.typepad.com/sensemaking/2011/04/get-fast-fast-a-project-management-approach-to-lightweight-rowing.html))
+### [Get Fast Fast](https://alexkrupp.typepad.com/sensemaking/2011/04/get-fast-fast-a-project-management-approach-to-lightweight-rowing.html)
 
 #### A Project Management Approach To Lightweight Rowing
 
