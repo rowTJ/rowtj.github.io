@@ -1,0 +1,4 @@
+enableGitInfo = true
+
+[markup.goldmark.renderer]
+  unsafe = true
